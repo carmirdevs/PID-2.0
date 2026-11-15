@@ -1,0 +1,3 @@
+id,planeacion_id,actividad_id,solicitante_id,justificacion,cambios_propuestos,estado,creada_en
+1,1,3,1,Ajuste simulado de calendario,"{""fecha_inicio_programada"":{""antes"":""2027-02-15"",""despues"":""2027-02-17""},""fecha_fin_programada"":{""antes"":""2027-02-19"",""despues"":""2027-02-21""}}",aprobada,2027-02-09 10:00:00
+2,1,4,1,Conflicto simulado de calendario,"{""fecha_fin_programada"":{""antes"":""2027-02-26"",""despues"":""2027-03-05""}}",rechazada,2027-02-10 11:00:00
