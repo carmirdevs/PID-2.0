@@ -1,0 +1,6 @@
+id,actor_id,entidad,entidad_id,accion,detalle,ocurrido_en
+1,1,planeaciones,1,crear_linea_base,"{""version"":1}",2027-01-25 09:00:00
+2,1,solicitudes_cambio,1,solicitar,"{""estado"":""pendiente""}",2027-02-09 10:00:00
+3,2,solicitudes_cambio,1,aprobar,"{""version_generada"":2}",2027-02-09 12:00:00
+4,1,solicitudes_cambio,2,solicitar,"{""estado"":""pendiente""}",2027-02-10 11:00:00
+5,2,solicitudes_cambio,2,rechazar,"{""version_vigente"":2}",2027-02-10 13:00:00
