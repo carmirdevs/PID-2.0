@@ -1,0 +1,5 @@
+id,unidad_id,descripcion,fecha_inicio_programada,fecha_fin_programada
+1,1,Diagnóstico simulado,2027-02-01,2027-02-05
+2,1,Revisión simulada,2027-02-08,2027-02-12
+3,2,Modelado simulado,2027-02-15,2027-02-19
+4,2,Validación simulada,2027-02-22,2027-02-26
