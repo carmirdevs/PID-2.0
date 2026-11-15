@@ -1,0 +1,11 @@
+\section{Resultados preliminares}
+\subsection{Inspección del sistema original}
+El esquema depurado contiene 16 tablas, incluyendo instrumentaciones, archivos, usuarios, materias, periodos y permisos. En el controlador se identificó carga XLSX, registro de fecha, contador de modificaciones y cuatro operaciones de entrega de reportes. En las funciones revisadas no se acreditó edición estructurada de actividades ni un flujo íntegro de aprobación y versionado inmutable; esto no demuestra su ausencia en todo el sistema.
+
+Se identificaron riesgos de seguridad por comparación directa de credenciales, generación de sesión con MD5 y uso de identificador de sesión por URL. La revisión estática no constituye prueba de explotación.
+
+\subsection{Especificación y trazabilidad}
+Se formularon 12 requerimientos funcionales (RF-01 a RF-12), siete no funcionales (RNF-01 a RNF-07) y cinco reglas candidatas. La matriz documental vincula los 19 requerimientos con necesidad, objetivo provisional, fuente y prueba prevista. La cobertura documental 19/19 no implica validación empírica.
+
+\subsection{Diccionario y escenarios sintéticos}
+Se inventariaron 16 tablas originales y propusieron 13 entidades conceptuales. SIM-001 describe una solicitud aprobada que genera versión 2 y una rechazada que mantiene la versión vigente. Estas decisiones son datos simulados predefinidos; no son salidas de software ejecutado.
