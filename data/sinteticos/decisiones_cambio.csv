@@ -1,0 +1,3 @@
+id,solicitud_id,autorizador_id,resultado,motivo,decidida_en
+1,1,2,aprobar,Ajuste simulado aceptado,2027-02-09 12:00:00
+2,2,2,rechazar,No se justifica cambio simulado,2027-02-10 13:00:00
