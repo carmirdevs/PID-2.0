@@ -8,7 +8,7 @@ Investigar, diseñar y evaluar una evolución del PID original hacia un sistema 
 
 ## Antecedente verificable
 
-Repositorio histórico privado: [PID-Original](https://github.com/carmirdevs/PID-Original). Su diagnóstico estático se encuentra en `docs/INFORME_REVISION_TECNICA.md` de ese repositorio.
+Repositorio histórico publico: [PID-Original](https://github.com/carmirdevs/PID-Original). Su diagnóstico estático se encuentra en `docs/INFORME_REVISION_TECNICA.md` de ese repositorio.
 
 **Distinción fundamental:** la última versión original aceptaba instrumentaciones XLSX y permitía sustituir archivos; no debe confundirse esa operación con actualizar unidades, actividades y fechas de manera estructurada. El diagnóstico técnico tiene límites: no se han completado pruebas funcionales.
 
