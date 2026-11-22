@@ -1,0 +1,8 @@
+PID 2.0 — Consentimiento informado, versión CI-1.0 (borrador institucional, pendiente de aprobación del aviso de privacidad).
+Finalidad: conocer prácticas de planeación didáctica y valorar la pertinencia de 19 requerimientos y cinco reglas de negocio para una investigación doctoral.
+Participación: voluntaria, sin repercusiones laborales o académicas. Puede rechazar la invitación sin responder.
+Datos: nombre, correo y puesto se usan para administrar invitaciones. Las respuestas se guardan en tablas separadas, sin nombre, correo ni identificador de invitación. Se conserva el puesto y la versión del instrumento.
+Acceso: el personal administrador autorizado puede consultar el directorio de invitaciones; el revisor académico accede únicamente a resultados agregados con reglas de supresión.
+Limitaciones: no se garantiza anonimato absoluto, especialmente en grupos pequeños o por información temporal. No se publicarán respuestas individuales.
+Retiro: antes de enviar puede abandonar o rechazar. Después del envío, al no conservar un vínculo entre invitación y respuestas, no es posible identificar de manera fiable cuál respuesta retirar.
+Conservación, derechos y contacto: deben definirse y publicarse por el responsable institucional en el aviso de privacidad aplicable antes del levantamiento.
